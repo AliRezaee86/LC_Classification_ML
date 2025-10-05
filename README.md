@@ -2,7 +2,7 @@
 
 This project implements a Land Cover (LC) classification workflow using Sentinel-2 satellite imagery and machine learning algorithms in Python. It aims to classify different land cover types (e.g., vegetation, water, urban, bare land) from multispectral satellite bands.
 
-## 📂 Project Structure
+## 📂  Project Structure
 
 
 ## 🛰️ Input Data
